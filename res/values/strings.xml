@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Safety_app</string>
+    <string name="security">Security</string>
+    <string name="in_case_of_emergency_and_during_at_abnormal_condition_call_the_police_number_100">In case of emergency, and During at abnormal condition call the (Police) number 100</string>
+    <string name="guard">GUARD</string>
+    <string name="in_case_of_emergency_and_during_at_abnormal_condition_call_tpolice_number_100">In case of emergency, and During at abnormal condition call the (Police) number 100</string>
+    <string name="my_family">My_Family</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
